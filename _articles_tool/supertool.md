@@ -12,3 +12,7 @@ Viele nuzuen Instagram, um eine Fotostory anzulegen.
 und jetzt noch ein BIld
 
 ![alt text](http://img.geo.de/div/image/77485/faultier-gross.jpg "Logo Title Text 1")
+
+und noch ein Bild
+
+![alt text]({{ site.github.url }}images/Anhang 17.png "Logo Title Text 1")
