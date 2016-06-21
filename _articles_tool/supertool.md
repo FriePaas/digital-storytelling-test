@@ -15,4 +15,4 @@ und jetzt noch ein BIld
 
 und noch ein Bild
 
-![alt text]({{ site.github.url }}images/Anhang_17.png "Logo Title Text 1")
+![alt text]({{ site.github.url }}/images/Anhang_17.png "Logo Title Text 1")
